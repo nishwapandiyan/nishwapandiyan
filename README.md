@@ -1,94 +1,87 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Nishwa%20R%20P&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Frontend%20Developer%20%7C%20Python%20Web%20Developer%20%7C%20ECE%20Undergrad&descAlignY=62&descSize=16)
-
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=3000&pause=1000&color=70A5FD&center=true&vCenter=true&width=750&lines=Hi+there%2C+I'm+Nishwa+%F0%9F%91%8B;Frontend+Developer+%7C+Python+%2B+Django;Building+responsive+and+database-driven+apps;ECE+Undergrad+%40+VSB+Engineering+College)](https://git.io/typing-svg)
+<!-- Typing animation banner -->
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=00D9FF&center=true&vCenter=true&width=650&lines=Hi+%F0%9F%91%8B%2C+I'm+Nishwa+R+P;Python+%7C+Django+Developer;Frontend+Developer+%F0%9F%92%BB;UI%2FUX+Enthusiast+%F0%9F%8E%A8;Building+Clean%2C+Responsive+Web+Apps" alt="Typing SVG" />
 
-[![Profile Views](https://komarev.com/ghpvc/?username=nishwapandiyan&color=70a5fd&style=flat-square&label=Profile+Views)](https://github.com/nishwapandiyan)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-nishwapandiyan-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](http://www.linkedin.com/in/nishwapandiyan)
-[![Portfolio](https://img.shields.io/badge/Portfolio-nishwapandiyan.github.io-70a5fd?style=flat-square&logo=githubpages&logoColor=white)](https://nishwapandiyan.github.io/Portfolio/)
-[![Email](https://img.shields.io/badge/Gmail-nishwapandiyan%40gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:nishwapandiyan@gmail.com)
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00D9FF,100:7C3AED&height=200&section=header&text=Welcome%20to%20my%20GitHub&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=35" />
 
 </div>
 
 ---
 
-## 👩‍💻 About Me
+## 🚀 About Me
 
-<img align="right" width="380" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif"/>
+- 🎓 Electronics & Communication Engineering undergraduate — **CGPA: 8.2**, VSB Engineering College, Karur
+- 💻 Passionate about **Frontend Development**, **Python/Django**, and **UI/UX Design**
+- 🌱 Currently sharpening my skills in **Django**, **REST principles**, and **Data Structures & Algorithms**
+- 🏆 **Agentblaze Champion** — recognised by Salesforce / FutureSkills Prime for excellence in AI agent technologies
+- 📜 Certified by **IBM, Meta, Infosys, GUVI, Kaggle & Salesforce**
+- 🧩 Solved **100+ DSA problems** on LeetCode & HackerRank, plus a **5★ SQL rating** on HackerRank
+- 🎯 Actively seeking entry-level roles as a **Frontend / Python / Django Developer**
+- 📍 Based in Thanjavur, Tamil Nadu, India
+- ✉️ Reach me at **nishwapandiyan@gmail.com**
 
-```python
-class Nishwa:
-    def __init__(self):
-        self.name        = "Nishwa R P"
-        self.location    = "Thanjavur, Tamil Nadu, India"
-        self.degree      = "B.E. Electronics & Communication Engineering"
-        self.college     = "VSB Engineering College, Karur"
-        self.cgpa        = 8.2
+---
 
-        self.stack = [
-            "HTML5", "CSS3", "JavaScript",
-            "Python", "Django", "Tkinter",
-            "MySQL", "Java"
-        ]
+## 🔗 Connect With Me
 
-        self.currently_learning = [
-            "React.js",
-            "REST APIs with Django",
-            "Data Structures & Algorithms",
-            "System Design basics"
-        ]
+<div align="center">
 
-        self.fun_fact = (
-            "I organised a Java seminar for my peers "
-            "because teaching is the best way to learn! 🎓"
-        )
+<a href="#" target="_blank"><img src="https://img.shields.io/badge/Portfolio-00D9FF?style=for-the-badge&logo=vercel&logoColor=white" /></a>
+<a href="#" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="#" target="_blank"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
+<a href="mailto:nishwapandiyan@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+<a href="https://leetcode.com/" target="_blank"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" /></a>
+<a href="https://hackerrank.com/" target="_blank"><img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" /></a>
 
-    def motto(self):
-        return "Build. Break. Learn. Repeat. 🚀"
+</div>
 
-me = Nishwa()
-print(me.motto())
-```
-
-<br clear="right"/>
+> 💡 Replace the `#` above with your actual Portfolio, LinkedIn, and GitHub URLs.
 
 ---
 
 ## 🛠️ Tech Stack
 
-**Languages**
+<div align="center">
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+### Frontend
+<img src="https://skillicons.dev/icons?i=html,css,js,figma" />
 
-**Frameworks & Libraries**
+### Python / Backend
+<img src="https://skillicons.dev/icons?i=python,django,java" />
 
-![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white)
-![Tkinter](https://img.shields.io/badge/Tkinter-3776AB?style=flat-square&logo=python&logoColor=white)
+### Database
+<img src="https://skillicons.dev/icons?i=mysql" />
 
-**Databases**
+### Tools & Version Control
+<img src="https://skillicons.dev/icons?i=git,github,vscode,pycharm" />
 
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+</div>
 
-**Tools & Version Control**
+---
 
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
-![PyCharm](https://img.shields.io/badge/PyCharm-000000?style=flat-square&logo=pycharm&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
+## 💼 Featured Projects
 
-**Core Concepts**
+<div align="center">
 
-![OOP](https://img.shields.io/badge/OOP-70A5FD?style=flat-square&logoColor=white)
-![DBMS](https://img.shields.io/badge/DBMS-BF91F3?style=flat-square&logoColor=white)
-![DSA](https://img.shields.io/badge/DSA-38BDAE?style=flat-square&logoColor=white)
-![REST](https://img.shields.io/badge/REST%20Principles-38BDAE?style=flat-square&logoColor=white)
+<a href="#"><img src="https://github-readme-stats.vercel.app/api/pin/?username=YOUR_USERNAME&repo=hospital-management-system&theme=tokyonight&hide_border=true" /></a>
+<a href="#"><img src="https://github-readme-stats.vercel.app/api/pin/?username=YOUR_USERNAME&repo=smart-student-dashboard&theme=tokyonight&hide_border=true" /></a>
+<a href="#"><img src="https://github-readme-stats.vercel.app/api/pin/?username=YOUR_USERNAME&repo=library-management-system&theme=tokyonight&hide_border=true" /></a>
+<a href="#"><img src="https://github-readme-stats.vercel.app/api/pin/?username=YOUR_USERNAME&repo=student-management-system&theme=tokyonight&hide_border=true" /></a>
+
+</div>
+
+| Project | Stack | Highlights |
+|---|---|---|
+| 🏥 **Hospital Management System** | Python · Tkinter · MySQL | Full-stack desktop app with 6 GUI modules, modular OOP architecture, `python-dotenv` config |
+| 📊 **Smart Student Dashboard** | HTML5 · CSS3 · JavaScript | Responsive mobile-first dashboard with DOM manipulation & event handling |
+| 📚 **Library Management System** | Python · MySQL | Multi-module app for book issue/return tracking & member authentication |
+| 🎓 **Student Management System** | Python · MySQL | CLI app with full CRUD operations, menu-driven interface |
+| ⚡ **Thermoelectric Generator** | Hardware · Circuit Design | Waste-heat-to-electricity system using the Seebeck effect |
+
+> 💡 Replace `YOUR_USERNAME` and repo names above with your real GitHub repo links so the pinned cards render correctly.
 
 ---
 
@@ -96,108 +89,49 @@ print(me.motto())
 
 <div align="center">
 
-<a href="https://github.com/nishwapandiyan">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=nishwapandiyan&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&bg_color=0d1117&title_color=70a5fd&icon_color=bf91f3&text_color=c9d1d9&border_radius=10"/>
-</a>
-<a href="https://github.com/nishwapandiyan">
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nishwapandiyan&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=70a5fd&text_color=c9d1d9&langs_count=8&border_radius=10"/>
-</a>
+<img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="48%" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true" width="42%" />
+
+<br/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight&hide_border=true" width="90%" />
 
 </div>
 
 ---
 
-## 🔥 Streak Stats
+## 📈 Contribution Graph
 
 <div align="center">
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=nishwapandiyan&theme=tokyonight-duo&hide_border=true&background=0D1117&ring=70A5FD&fire=BF91F3&currStreakLabel=70A5FD&sideLabels=38BDAE&dates=8B949E&currStreakNum=C9D1D9&sideNums=C9D1D9&stroke=0D1117&border_radius=10)](https://git.io/streak-stats)
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=tokyo-night&hide_border=true" width="95%" />
 
 </div>
 
 ---
 
-## 📈 Activity Graph
+## 🏅 Achievements & Certifications
 
-<div align="center">
-
-[![Nishwa's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=nishwapandiyan&theme=tokyo-night&bg_color=0d1117&color=70a5fd&line=bf91f3&point=38bdae&area=true&hide_border=true)](https://github.com/nishwapandiyan)
-
-</div>
-
----
-
-## 🏆 Trophy Wall
-
-<div align="center">
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=nishwapandiyan&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7&margin-w=4)](https://github.com/ryo-ma/github-profile-trophy)
-
-</div>
-
----
-
-## 🚀 Featured Projects
-
-<div align="center">
-
-| Project | Stack | Highlights |
-|--------|-------|------------|
-| [🏥 Hospital Management System](https://github.com/nishwapandiyan/Hospital_Management_Python) | Python · Tkinter · MySQL | Full-stack desktop app with 6 GUI modules (login, dashboard, patient, doctor, appointment, billing); OOP + modular architecture; python-dotenv config |
-| [📊 Smart Student Dashboard](https://github.com/nishwapandiyan/Smart-Student-Monitoring) | HTML5 · CSS3 · JavaScript | Responsive frontend dashboard; DOM manipulation, event handling, mobile-first design; displays student records, grades & attendance |
-| [📚 Library Management System](https://github.com/nishwapandiyan/library-management-python) | Python · MySQL | Multi-module app with book issue/return tracking, member authentication, modular file architecture |
-| [🎓 Student Management System](https://github.com/nishwapandiyan/student-management-python) | Python · MySQL | CLI app with full CRUD on MySQL; modular DB connection module; menu-driven interface |
-
-</div>
-
----
-
-## 🏅 Certifications & Achievements
-
-<div align="center">
-
-| 🏆 | Achievement | Issuer |
-|----|-------------|--------|
-| 🐍 | [Python for Data Science and AI Development](https://coursera.org/share/3275b27c324596dd8143011158ef722e) | IBM / Coursera |
-| 🌐 | [Programming with JavaScript](https://coursera.org/share/076f56c80bdbd394ac645cd7e6b42093) | Meta / Coursera |
-| ☕ | [Programming in Java](https://www.guvi.in/share-certificate/13e15d1N49P600x957) | GUVI |
-| 🏢 | [Java Foundation](https://drive.google.com/file/d/135UzakiQkOpibqbW-5IU_SPDPxcz9ttL/view?usp=sharing) | Infosys Springboard |
-| ⚡ | [Agentblaze Champion](https://drive.google.com/file/d/1nIf1zV1SdAdtAi5LxWEKmgjalxWfQ7KE/view?usp=sharing) | Salesforce / FutureSkills Prime |
-| 🤖 | [AI Agent Fundamentals](https://www.kaggle.com/certification/badges/nishwarp/105) | Kaggle |
-
-</div>
-
----
-
-## 🎓 Education
-
-<div align="center">
-
-| Degree | Institution | Year | Score |
-|--------|-------------|------|-------|
-| B.E. Electronics & Communication Engineering | VSB Engineering College, Karur | 2023 – Present | CGPA: 8.2 |
-| Higher Secondary Certificate (HSC) | Muvendar Matriculation HSS, Thanjavur | 2022 – 2023 | 86% |
-
-</div>
-
----
-
-## 📚 Currently Learning
-
-```
-🌐 React.js           →  Components, Hooks, State Management
-🔗 Django REST APIs   →  Serializers, ViewSets, Token Auth
-🧱 DSA                →  Arrays, Linked Lists, Trees, Graphs, Dynamic Programming
-🚀 Deployment         →  Git Actions, Heroku, Render
-🎨 UI/UX              →  Figma prototyping, Design Systems
-```
+- 🥇 **Agentblaze Champion** — Salesforce / FutureSkills Prime
+- 🧠 **Capgemini Buildathon** — Qualified Round 1, solved SQL Murder Mystery in Round 2
+- ✅ Python for Data Science and AI Development — IBM / Coursera
+- ✅ Programming with JavaScript — Meta / Coursera
+- ✅ Programming in Java — GUVI
+- ✅ Java Foundation — Infosys Springboard
+- ✅ AI Agent Fundamentals — Kaggle
 
 ---
 
 <div align="center">
 
-*"The best way to learn is to build something real."* ✨
+### 👀 Visitor Count
+
+<img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile%20Views&color=00D9FF&style=for-the-badge" />
+
+<br/><br/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7C3AED,100:00D9FF&height=120&section=footer" />
+
+**Thanks for stopping by — let's build something great together! 🚀**
 
 </div>
-
-![footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&animation=twinkling)
