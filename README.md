@@ -40,8 +40,6 @@ Check out my profiles: [Portfolio](https://nishwapandiyan.github.io/Portfolio/) 
 
 <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" width="100%"/>
 
-<sub align="center">💡 The snake above eats my GitHub contribution graph — powered by a GitHub Actions workflow (setup steps at the bottom of this README).</sub>
-
 ---
 
 ## 👩‍💻 About Me
