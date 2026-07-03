@@ -1,38 +1,42 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Nishwa%20R%20P&fontSize=46&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Frontend%20Developer%20%7C%20Python%20%2B%20Django%20Developer%20%7C%20ECE%20Undergrad&descAlignY=62&descSize=16)
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Nishwa%20R%20P&fontSize=46&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Frontend%20Developer%20%7C%20Python%20%2B%20Django%20Developer%20%7C%20ECE%20Undergrad&descAlignY=62&descSize=16" alt="Nishwa Banner" width="100%" />
+</p>
 
-<div align="center">
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Tinos&weight=700&size=26&duration=3000&pause=1000&color=70A5FD&center=true&vCenter=true&width=750&lines=Hi+there%2C+I'm+Nishwa+%F0%9F%91%8B;Frontend+Developer+%7C+Python+%2B+Django;Building+responsive+and+database-driven+apps;ECE+Undergrad+%40+VSB+Engineering+College;Open+to+Software+%2F+Python+%2F+Django+Roles+%F0%9F%9A%80" alt="Typing SVG" width="70%" />
+</p>
 
-<img src="https://skillicons.dev/icons?i=python,django,java,js,html,css,mysql,react,git,github,vscode,figma&theme=dark" alt="Tech stack icons"/>
+# Hey There! 👋
+**I'm Nishwa R P** — Frontend Developer, Python + Django developer, and final-year ECE undergrad.
+I build responsive interfaces, database-driven apps, and I'm actively sharpening my DSA and system design skills for software roles.
 
-<br/><br/>
+Check out my profiles: [Portfolio](https://nishwapandiyan.github.io/Portfolio/) | [LinkedIn](http://www.linkedin.com/in/nishwapandiyan) | [LeetCode](https://leetcode.com/u/Nishwa_RP/) | [HackerRank](https://www.hackerrank.com/profile/nishwapandiyan) | [Gmail](mailto:nishwapandiyan@gmail.com)
 
-![OOP](https://img.shields.io/badge/OOP-70A5FD?style=for-the-badge&logoColor=white)
-![DBMS](https://img.shields.io/badge/DBMS-BF91F3?style=for-the-badge&logoColor=white)
-![DSA](https://img.shields.io/badge/DSA-38BDAE?style=for-the-badge&logoColor=white)
-![REST APIs](https://img.shields.io/badge/REST%20APIs-38BDAE?style=for-the-badge&logoColor=white)
+<p>
+  <img src="https://skillicons.dev/icons?i=python,django,java,js,html,css,mysql,react,git,github,vscode,figma&theme=dark" />
+</p>
 
-</div>
+<p>
+  <img src="https://img.shields.io/badge/Status-Open%20to%20Work-success?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Focus-Frontend%20%7C%20Python%20%7C%20Django-blue?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Mode-Always%20Learning-orange?style=for-the-badge" />
+</p>
 
----
+<p>
+  <img src="https://img.shields.io/badge/OOP-70A5FD?style=for-the-badge&logoColor=white" />
+  <img src="https://img.shields.io/badge/DBMS-BF91F3?style=for-the-badge&logoColor=white" />
+  <img src="https://img.shields.io/badge/DSA-38BDAE?style=for-the-badge&logoColor=white" />
+  <img src="https://img.shields.io/badge/REST%20APIs-38BDAE?style=for-the-badge&logoColor=white" />
+</p>
 
-<div align="center">
+<details>
+  <summary>GitHub Stats ⚡</summary><br/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Tinos&weight=700&size=26&duration=3000&pause=1000&color=70A5FD&center=true&vCenter=true&width=750&lines=Hi+there%2C+I'm+Nishwa+%F0%9F%91%8B;Frontend+Developer+%7C+Python+%2B+Django;Building+responsive+and+database-driven+apps;ECE+Undergrad+%40+VSB+Engineering+College;Open+to+Software+%2F+Python+%2F+Django+Roles+%F0%9F%9A%80)](https://git.io/typing-svg)
+![](https://streak-stats.demolab.com?user=nishwapandiyan&theme=tokyonight-duo&hide_border=true&background=0D1117&ring=70A5FD&fire=BF91F3&currStreakLabel=70A5FD&sideLabels=38BDAE&dates=8B949E&currStreakNum=C9D1D9&sideNums=C9D1D9&stroke=0D1117&border_radius=10)
+![](https://komarev.com/ghpvc/?username=nishwapandiyan&style=for-the-badge&color=70a5fd&label=PROFILE+VIEWS)
+![](https://img.shields.io/github/followers/nishwapandiyan?style=for-the-badge&color=181717&logo=github&label=Followers)
 
-<br/>
-
-![Profile Views](https://komarev.com/ghpvc/?username=nishwapandiyan&color=70a5fd&style=for-the-badge&label=PROFILE+VIEWS)
-![Open to Work](https://img.shields.io/badge/Open%20to%20Work-2EC866?style=for-the-badge&logo=checkmarx&logoColor=white)
-[![GitHub Followers](https://img.shields.io/github/followers/nishwapandiyan?style=for-the-badge&color=181717&logo=github&label=Followers)](https://github.com/nishwapandiyan)
-
-<br/><br/>
-
-| [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](http://www.linkedin.com/in/nishwapandiyan) | [![Portfolio](https://img.shields.io/badge/Portfolio-70a5fd?style=for-the-badge&logo=githubpages&logoColor=white)](https://nishwapandiyan.github.io/Portfolio/) | [![Resume](https://img.shields.io/badge/Resume-FF5722?style=for-the-badge&logo=readdotcv&logoColor=white)](#) | [![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nishwapandiyan@gmail.com) | [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/Nishwa_RP/) | [![HackerRank](https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/profile/nishwapandiyan) |
-|:---:|:---:|:---:|:---:|:---:|:---:|
-
-</div>
-
-<br/>
+</details>
 
 <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" width="100%"/>
 
@@ -79,16 +83,6 @@ print(me.motto())
 ```
 
 <br clear="right"/>
-
----
-
-## 🔥 Streak Stats
-
-<div align="center">
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=nishwapandiyan&theme=tokyonight-duo&hide_border=true&background=0D1117&ring=70A5FD&fire=BF91F3&currStreakLabel=70A5FD&sideLabels=38BDAE&dates=8B949E&currStreakNum=C9D1D9&sideNums=C9D1D9&stroke=0D1117&border_radius=10)](https://git.io/streak-stats)
-
-</div>
 
 ---
 
@@ -161,11 +155,7 @@ print(me.motto())
 
 ---
 
-<div align="center">
-
-*"The best way to learn is to build something real."* ✨
-
-</div>
+> **Building responsive, database-driven software — one project at a time.**
 
 ![footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&animation=twinkling)
 
@@ -207,19 +197,16 @@ SETUP NOTES (delete this comment block once done — GitHub won't render it)
    After the first run, the `output` branch will contain the SVGs and the
    image link already in this README will start working automatically.
 
-2) RESUME BADGE — the Resume badge currently links to "#". Replace it with
-   a public link to your resume (Google Drive "Anyone with the link can view",
-   Google Drive PDF preview link, or a hosted PDF URL).
+2) RESUME LINK — add a Resume link to the profile-links line once you have
+   a public link (Google Drive "Anyone with the link can view", or a hosted PDF URL).
 
 3) LEETCODE CARD — the leetcard.jacoblin.cool card auto-pulls live solved
    counts (easy/medium/hard) and a submission heatmap for the username
    Nishwa_RP. No setup needed, it just works as long as the profile is public.
 
-4) BORDERED TABLES — the boxes around your badges/cards use plain GFM
-   markdown tables. GitHub applies its own default 1px border to table
-   cells, so no custom CSS was needed (and none would render — GitHub
-   strips inline styles from READMEs). If you ever redesign a section,
-   wrapping content in a table is the reliable way to get a "boxed" look.
+4) GITHUB STATS — now tucked inside a collapsible <details> section
+   ("GitHub Stats ⚡") to keep the top of the profile clean, matching
+   the reference layout you shared.
 
 =====================================================================
 -->
