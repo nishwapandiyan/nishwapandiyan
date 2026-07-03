@@ -2,16 +2,33 @@
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=26&duration=3000&pause=1000&color=70A5FD&center=true&vCenter=true&width=750&lines=Hi+there%2C+I'm+Nishwa+%F0%9F%91%8B;Frontend+Developer+%7C+Python+%2B+Django;Building+responsive+and+database-driven+apps;ECE+Undergrad+%40+VSB+Engineering+College;Open+to+Software+%2F+Python+%2F+Django+Roles+%F0%9F%9A%80)](https://git.io/typing-svg)
+<img src="https://skillicons.dev/icons?i=python,django,java,js,html,css,mysql,react,git,github,vscode,figma&theme=dark" alt="Tech stack icons"/>
+
+<br/><br/>
+
+![OOP](https://img.shields.io/badge/OOP-70A5FD?style=for-the-badge&logoColor=white)
+![DBMS](https://img.shields.io/badge/DBMS-BF91F3?style=for-the-badge&logoColor=white)
+![DSA](https://img.shields.io/badge/DSA-38BDAE?style=for-the-badge&logoColor=white)
+![REST APIs](https://img.shields.io/badge/REST%20APIs-38BDAE?style=for-the-badge&logoColor=white)
+
+</div>
+
+---
+
+<div align="center">
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Tinos&weight=700&size=26&duration=3000&pause=1000&color=70A5FD&center=true&vCenter=true&width=750&lines=Hi+there%2C+I'm+Nishwa+%F0%9F%91%8B;Frontend+Developer+%7C+Python+%2B+Django;Building+responsive+and+database-driven+apps;ECE+Undergrad+%40+VSB+Engineering+College;Open+to+Software+%2F+Python+%2F+Django+Roles+%F0%9F%9A%80)](https://git.io/typing-svg)
 
 <br/>
 
 ![Profile Views](https://komarev.com/ghpvc/?username=nishwapandiyan&color=70a5fd&style=for-the-badge&label=PROFILE+VIEWS)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](http://www.linkedin.com/in/nishwapandiyan)
-[![Portfolio](https://img.shields.io/badge/Portfolio-70a5fd?style=for-the-badge&logo=githubpages&logoColor=white)](https://nishwapandiyan.github.io/Portfolio/)
-[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nishwapandiyan@gmail.com)
-[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/Nishwa_RP/)
-[![HackerRank](https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/profile/nishwapandiyan)
+![Open to Work](https://img.shields.io/badge/Open%20to%20Work-2EC866?style=for-the-badge&logo=checkmarx&logoColor=white)
+[![GitHub Followers](https://img.shields.io/github/followers/nishwapandiyan?style=for-the-badge&color=181717&logo=github&label=Followers)](https://github.com/nishwapandiyan)
+
+<br/><br/>
+
+| [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](http://www.linkedin.com/in/nishwapandiyan) | [![Portfolio](https://img.shields.io/badge/Portfolio-70a5fd?style=for-the-badge&logo=githubpages&logoColor=white)](https://nishwapandiyan.github.io/Portfolio/) | [![Resume](https://img.shields.io/badge/Resume-FF5722?style=for-the-badge&logo=readdotcv&logoColor=white)](#) | [![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nishwapandiyan@gmail.com) | [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/Nishwa_RP/) | [![HackerRank](https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/profile/nishwapandiyan) |
+|:---:|:---:|:---:|:---:|:---:|:---:|
 
 </div>
 
@@ -25,7 +42,7 @@
 
 ## 👩‍💻 About Me
 
-<img align="right" width="380" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif"/>
+<img align="right" width="360" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif"/>
 
 ```python
 class Nishwa:
@@ -65,59 +82,6 @@ print(me.motto())
 
 ---
 
-## 🛠️ Tech Stack
-
-<div align="center">
-
-**Languages**
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-
-**Frameworks & Libraries**
-
-![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
-![Tkinter](https://img.shields.io/badge/Tkinter-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-
-**Databases**
-
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-
-**Tools & Version Control**
-
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
-![PyCharm](https://img.shields.io/badge/PyCharm-000000?style=for-the-badge&logo=pycharm&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
-
-**Core Concepts**
-
-![OOP](https://img.shields.io/badge/OOP-70A5FD?style=for-the-badge&logoColor=white)
-![DBMS](https://img.shields.io/badge/DBMS-BF91F3?style=for-the-badge&logoColor=white)
-![DSA](https://img.shields.io/badge/DSA-38BDAE?style=for-the-badge&logoColor=white)
-![REST](https://img.shields.io/badge/REST%20APIs-38BDAE?style=for-the-badge&logoColor=white)
-
-</div>
-
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=nishwapandiyan&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&bg_color=0d1117&title_color=70a5fd&icon_color=bf91f3&text_color=c9d1d9&border_radius=10"/>
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nishwapandiyan&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=70a5fd&text_color=c9d1d9&langs_count=8&border_radius=10"/>
-
-</div>
-
----
-
 ## 🔥 Streak Stats
 
 <div align="center">
@@ -128,44 +92,13 @@ print(me.motto())
 
 ---
 
-## 📈 Activity Graph
-
-<div align="center">
-
-[![Nishwa's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=nishwapandiyan&theme=tokyo-night&bg_color=0d1117&color=70a5fd&line=bf91f3&point=38bdae&area=true&hide_border=true)](https://github.com/nishwapandiyan)
-
-</div>
-
----
-
-## 🏆 Trophy Wall
-
-<div align="center">
-
-<!-- no-bg removed so trophies stay visible on both light and dark GitHub themes -->
-[![trophy](https://github-profile-trophy.vercel.app/?username=nishwapandiyan&theme=tokyonight&no-frame=true&row=1&column=7&margin-w=8&margin-h=8)](https://github.com/ryo-ma/github-profile-trophy)
-
-</div>
-
----
-
 ## 🧩 Coding Profiles & Problem Solving
 
 <div align="center">
 
-**LeetCode**
-
-[![LeetCode Stats](https://leetcard.jacoblin.cool/Nishwa_RP?theme=dark&font=baloo&ext=heatmap)](https://leetcode.com/u/Nishwa_RP/)
-
-**HackerRank**
-
-[![HackerRank](https://img.shields.io/badge/dynamic/json?style=for-the-badge&logo=hackerrank&logoColor=white&label=HackerRank&color=2EC866&url=https%3A%2F%2Fwww.hackerrank.com%2Frest%2Fhackers%2Fnishwapandiyan%2Fbadges&query=%24.models[0].stars&suffix=%20★)](https://www.hackerrank.com/profile/nishwapandiyan)
-
-> ⚠️ HackerRank doesn't expose a public solved-count API the way LeetCode does, so the badge above pulls whatever their badges endpoint returns (may show as "invalid" if the profile is private). The most reliable option is a manually-updated badge — see the note at the bottom of this README for how to swap in an accurate number.
-
-**NeetCode**
-
-[![NeetCode](https://img.shields.io/badge/NeetCode-nishwapandiyan-000000?style=for-the-badge&logo=leetcode&logoColor=white)](https://neetcode.io/)
+| LeetCode | HackerRank | NeetCode |
+|:---:|:---:|:---:|
+| [![LeetCode Stats](https://leetcard.jacoblin.cool/Nishwa_RP?theme=dark&font=baloo&ext=heatmap)](https://leetcode.com/u/Nishwa_RP/) | **[HackerRank](https://www.hackerrank.com/profile/nishwapandiyan)** | [![NeetCode](https://img.shields.io/badge/NeetCode-nishwapandiyan-000000?style=for-the-badge&logo=leetcode&logoColor=white)](https://neetcode.io/) |
 
 </div>
 
@@ -274,17 +207,19 @@ SETUP NOTES (delete this comment block once done — GitHub won't render it)
    After the first run, the `output` branch will contain the SVGs and the
    image link already in this README will start working automatically.
 
-2) LEETCODE CARD — the leetcard.jacoblin.cool card auto-pulls live solved
+2) RESUME BADGE — the Resume badge currently links to "#". Replace it with
+   a public link to your resume (Google Drive "Anyone with the link can view",
+   Google Drive PDF preview link, or a hosted PDF URL).
+
+3) LEETCODE CARD — the leetcard.jacoblin.cool card auto-pulls live solved
    counts (easy/medium/hard) and a submission heatmap for the username
    Nishwa_RP. No setup needed, it just works as long as the profile is public.
 
-3) HACKERRANK COUNT — HackerRank does not offer a stable public API for
-   solved-problem counts. Two practical options:
-     a) Manually update a static badge whenever your count changes:
-        https://img.shields.io/badge/HackerRank_Solved-120+-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white
-        (edit the "120+" to your real number)
-     b) Add a "HackerRank Badges" screenshot/GIF of your profile page instead
-        of a live badge — more reliable than scraping their API.
+4) BORDERED TABLES — the boxes around your badges/cards use plain GFM
+   markdown tables. GitHub applies its own default 1px border to table
+   cells, so no custom CSS was needed (and none would render — GitHub
+   strips inline styles from READMEs). If you ever redesign a section,
+   wrapping content in a table is the reliable way to get a "boxed" look.
 
 =====================================================================
 -->
