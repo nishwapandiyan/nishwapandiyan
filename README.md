@@ -1,4 +1,4 @@
-<picture>
+<!-- <picture>
   <source
     media="(prefers-color-scheme: dark)"
     srcset="https://raw.githubusercontent.com/nishwapandiyan/nishwapandiyan/main/dark.png" />
@@ -8,9 +8,9 @@
   <img
     alt="Nishwa Banner"
     src="https://raw.githubusercontent.com/nishwapandiyan/nishwapandiyan/main/light.png" />
-</picture>
+</picture> -->
 
-<!-- <p align="center">
+ <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Nishwa%20R%20P&fontSize=46&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Frontend%20Developer%20%7C%20Python%20%2B%20Django%20Developer%20%7C%20ECE%20Undergrad&descAlignY=62&descSize=16" alt="Nishwa Banner" width="100%" />
 </p>
 
@@ -58,7 +58,7 @@ Check out my profiles: [Portfolio](https://nishwapandiyan.github.io/Portfolio/) 
 
 <img align="right" width="360" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif"/>
 
-```python
+python
 class Nishwa:
     def __init__(self):
         self.name        = "Nishwa R P"
@@ -90,11 +90,9 @@ class Nishwa:
 
 me = Nishwa()
 print(me.motto())
-```
 
 <br clear="right"/>
 
----
 
 ## 🧩 Coding Profiles & Problem Solving
 
