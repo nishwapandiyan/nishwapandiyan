@@ -1,4 +1,18 @@
-<p align="center">
+<picture>
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://raw.githubusercontent.com/nishwapandiyan/nishwapandiyan/main/dark.png">
+
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="https://raw.githubusercontent.com/nishwapandiyan/nishwapandiyan/main/light.png">
+
+  <img
+    alt="Nishwa Banner"
+    src="https://raw.githubusercontent.com/nishwapandiyan/nishwapandiyan/main/light.png">
+</picture>
+
+<!-- <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Nishwa%20R%20P&fontSize=46&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Frontend%20Developer%20%7C%20Python%20%2B%20Django%20Developer%20%7C%20ECE%20Undergrad&descAlignY=62&descSize=16" alt="Nishwa Banner" width="100%" />
 </p>
 
@@ -207,4 +221,4 @@ SETUP NOTES (delete this comment block once done — GitHub won't render it)
    the reference layout you shared.
 
 =====================================================================
--->
+--> -->
