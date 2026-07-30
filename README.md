@@ -1,15 +1,13 @@
 <picture>
   <source
     media="(prefers-color-scheme: dark)"
-    srcset="https://raw.githubusercontent.com/nishwapandiyan/nishwapandiyan/main/dark.png">
-
+    srcset="https://raw.githubusercontent.com/nishwapandiyan/nishwapandiyan/main/dark.png" />
   <source
     media="(prefers-color-scheme: light)"
-    srcset="https://raw.githubusercontent.com/nishwapandiyan/nishwapandiyan/main/light.png">
-
+    srcset="https://raw.githubusercontent.com/nishwapandiyan/nishwapandiyan/main/light.png" />
   <img
     alt="Nishwa Banner"
-    src="https://raw.githubusercontent.com/nishwapandiyan/nishwapandiyan/main/light.png">
+    src="https://raw.githubusercontent.com/nishwapandiyan/nishwapandiyan/main/light.png" />
 </picture>
 
 <!-- <p align="center">
