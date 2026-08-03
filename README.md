@@ -1,74 +1,23 @@
-<!-- <picture>
-  <source
-    media="(prefers-color-scheme: dark)"
-    srcset="https://raw.githubusercontent.com/nishwapandiyan/nishwapandiyan/main/dark.png" />
-  <source
-    media="(prefers-color-scheme: light)"
-    srcset="https://raw.githubusercontent.com/nishwapandiyan/nishwapandiyan/main/light.png" />
-  <img
-    alt="Nishwa Banner"
-    src="https://raw.githubusercontent.com/nishwapandiyan/nishwapandiyan/main/light.png" />
-</picture> -->
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Nishwa%20R%20P&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Frontend%20Developer%20%7C%20Python%20Web%20Developer%20%7C%20ECE%20Undergrad&descAlignY=62&descSize=16)
 
- <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Nishwa%20R%20P&fontSize=46&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Frontend%20Developer%20%7C%20Python%20%2B%20Django%20Developer%20%7C%20ECE%20Undergrad&descAlignY=62&descSize=16" alt="Nishwa Banner" width="100%" />
-</p>
+<div align="center">
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Tinos&weight=700&size=26&duration=3000&pause=1000&color=70A5FD&center=true&vCenter=true&width=750&lines=Hi+there%2C+I'm+Nishwa+%F0%9F%91%8B;Frontend+Developer+%7C+Python+%2B+Django;Building+responsive+and+database-driven+apps;ECE+Undergrad+%40+VSB+Engineering+College;Open+to+Software+%2F+Python+%2F+Django+Roles+%F0%9F%9A%80" alt="Typing SVG" width="70%" />
-</p>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=3000&pause=1000&color=70A5FD&center=true&vCenter=true&width=750&lines=Hi+there%2C+I'm+Nishwa+%F0%9F%91%8B;Frontend+Developer+%7C+Python+%2B+Django;Building+responsive+and+database-driven+apps;ECE+Undergrad+%40+VSB+Engineering+College)](https://git.io/typing-svg)
 
-# Hey There! 👋
-**I'm Nishwa R P** — Frontend Developer, Python + Django developer, and final-year ECE undergrad.
-I build responsive interfaces, database-driven apps, and I'm actively sharpening my DSA and system design skills for software roles.
+[![Profile Views](https://komarev.com/ghpvc/?username=nishwapandiyan&color=70a5fd&style=flat-square&label=Profile+Views)](https://github.com/nishwapandiyan)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-nishwapandiyan-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](http://www.linkedin.com/in/nishwapandiyan)
+[![Portfolio](https://img.shields.io/badge/Portfolio-nishwapandiyan.github.io-70a5fd?style=flat-square&logo=githubpages&logoColor=white)](https://nishwapandiyan.github.io/Portfolio/)
+[![Email](https://img.shields.io/badge/Gmail-nishwapandiyan%40gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:nishwapandiyan@gmail.com)
 
-Check out my profiles: [Portfolio](https://nishwapandiyan.github.io/Portfolio/) | [LinkedIn](http://www.linkedin.com/in/nishwapandiyan) | [LeetCode](https://leetcode.com/u/Nishwa_RP/) | [HackerRank](https://www.hackerrank.com/profile/nishwapandiyan) | [Gmail](mailto:nishwapandiyan@gmail.com)
-
-<p>
-  <img src="https://skillicons.dev/icons?i=python,django,java,js,html,css,mysql,react,git,github,vscode,figma&theme=dark" />
-</p>
-
-<p>
-  <img src="https://img.shields.io/badge/Status-Open%20to%20Work-success?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Focus-Frontend%20%7C%20Python%20%7C%20Django-blue?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Mode-Always%20Learning-orange?style=for-the-badge" />
-</p>
-
-<p>
-  <img src="https://img.shields.io/badge/OOP-70A5FD?style=for-the-badge&logoColor=white" />
-  <img src="https://img.shields.io/badge/DBMS-BF91F3?style=for-the-badge&logoColor=white" />
-  <img src="https://img.shields.io/badge/DSA-38BDAE?style=for-the-badge&logoColor=white" />
-  <img src="https://img.shields.io/badge/REST%20APIs-38BDAE?style=for-the-badge&logoColor=white" />
-</p>
-
-<details>
-  <summary>GitHub Stats ⚡</summary><br/>
-
-![](https://streak-stats.demolab.com?user=nishwapandiyan&theme=tokyonight-duo&hide_border=true&background=0D1117&ring=70A5FD&fire=BF91F3&currStreakLabel=70A5FD&sideLabels=38BDAE&dates=8B949E&currStreakNum=C9D1D9&sideNums=C9D1D9&stroke=0D1117&border_radius=10)
-![](https://komarev.com/ghpvc/?username=nishwapandiyan&style=for-the-badge&color=70a5fd&label=PROFILE+VIEWS)
-![](https://img.shields.io/github/followers/nishwapandiyan?style=for-the-badge&color=181717&logo=github&label=Followers)
-
-</details>
-
-<!-- <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" width="100%"/> -->
-<picture>
-  <source media="(prefers-color-scheme: dark)"
-          srcset="https://raw.githubusercontent.com/nishwapandiyan/nishwapandiyan/output/pacman-contribution-graph-dark.svg">
-
-  <source media="(prefers-color-scheme: light)"
-          srcset="https://raw.githubusercontent.com/nishwapandiyan/nishwapandiyan/output/pacman-contribution-graph.svg">
-
-  <img alt="Pacman contribution graph"
-       src="https://raw.githubusercontent.com/nishwapandiyan/nishwapandiyan/output/pacman-contribution-graph.svg">
-</picture>
+</div>
 
 ---
 
 ## 👩‍💻 About Me
 
-<img align="right" width="360" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif"/>
+<img align="right" width="380" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif"/>
 
-python
+```python
 class Nishwa:
     def __init__(self):
         self.name        = "Nishwa R P"
@@ -100,17 +49,89 @@ class Nishwa:
 
 me = Nishwa()
 print(me.motto())
+```
 
 <br clear="right"/>
 
+---
 
-## 🧩 Coding Profiles & Problem Solving
+## 🛠️ Tech Stack
+
+**Languages**
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+
+**Frameworks & Libraries**
+
+![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white)
+![Tkinter](https://img.shields.io/badge/Tkinter-3776AB?style=flat-square&logo=python&logoColor=white)
+
+**Databases**
+
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+
+**Tools & Version Control**
+
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
+![PyCharm](https://img.shields.io/badge/PyCharm-000000?style=flat-square&logo=pycharm&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
+
+**Core Concepts**
+
+![OOP](https://img.shields.io/badge/OOP-70A5FD?style=flat-square&logoColor=white)
+![DBMS](https://img.shields.io/badge/DBMS-BF91F3?style=flat-square&logoColor=white)
+![DSA](https://img.shields.io/badge/DSA-38BDAE?style=flat-square&logoColor=white)
+![REST](https://img.shields.io/badge/REST%20Principles-38BDAE?style=flat-square&logoColor=white)
+
+---
+
+## 📊 GitHub Stats
 
 <div align="center">
 
-| LeetCode | HackerRank | NeetCode |
-|:---:|:---:|:---:|
-| [![LeetCode Stats](https://leetcard.jacoblin.cool/Nishwa_RP?theme=dark&font=baloo&ext=heatmap)](https://leetcode.com/u/Nishwa_RP/) | **[HackerRank](https://www.hackerrank.com/profile/nishwapandiyan)** | [![NeetCode](https://img.shields.io/badge/NeetCode-nishwapandiyan-000000?style=for-the-badge&logo=leetcode&logoColor=white)](https://neetcode.io/) |
+<a href="https://github.com/nishwapandiyan">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=nishwapandiyan&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&bg_color=0d1117&title_color=70a5fd&icon_color=bf91f3&text_color=c9d1d9&border_radius=10"/>
+</a>
+<a href="https://github.com/nishwapandiyan">
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nishwapandiyan&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=70a5fd&text_color=c9d1d9&langs_count=8&border_radius=10"/>
+</a>
+
+</div>
+
+---
+
+## 🔥 Streak Stats
+
+<div align="center">
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=nishwapandiyan&theme=tokyonight-duo&hide_border=true&background=0D1117&ring=70A5FD&fire=BF91F3&currStreakLabel=70A5FD&sideLabels=38BDAE&dates=8B949E&currStreakNum=C9D1D9&sideNums=C9D1D9&stroke=0D1117&border_radius=10)](https://git.io/streak-stats)
+
+</div>
+
+---
+
+## 📈 Activity Graph
+
+<div align="center">
+
+[![Nishwa's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=nishwapandiyan&theme=tokyo-night&bg_color=0d1117&color=70a5fd&line=bf91f3&point=38bdae&area=true&hide_border=true)](https://github.com/nishwapandiyan)
+
+</div>
+
+---
+
+## 🏆 Trophy Wall
+
+<div align="center">
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=nishwapandiyan&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7&margin-w=4)](https://github.com/ryo-ma/github-profile-trophy)
 
 </div>
 
@@ -173,58 +194,10 @@ print(me.motto())
 
 ---
 
-> **Building responsive, database-driven software — one project at a time.**
+<div align="center">
+
+*"The best way to learn is to build something real."* ✨
+
+</div>
 
 ![footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&animation=twinkling)
-
-<!--
-=====================================================================
-SETUP NOTES (delete this comment block once done — GitHub won't render it)
-=====================================================================
-
-1) SNAKE ANIMATION — the snake near the top needs a GitHub Actions workflow
-   in THIS repo (the one named exactly `nishwapandiyan`) to generate the SVG.
-   Create `.github/workflows/snake.yml` with:
-
-   name: generate snake
-   on:
-     schedule:
-       - cron: "0 */6 * * *"
-     workflow_dispatch: {}
-     push:
-       branches: [ main ]
-   jobs:
-     generate:
-       permissions:
-         contents: write
-       runs-on: ubuntu-latest
-       steps:
-         - uses: Platane/snk@v3
-           with:
-             github_user_name: nishwapandiyan
-             outputs: |
-               dist/github-contribution-grid-snake.svg
-               dist/github-contribution-grid-snake-dark.svg?palette=github-dark
-         - uses: crazy-max/ghaction-github-pages@v4
-           with:
-             target_branch: output
-             build_dir: dist
-           env:
-             GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-
-   After the first run, the `output` branch will contain the SVGs and the
-   image link already in this README will start working automatically.
-
-2) RESUME LINK — add a Resume link to the profile-links line once you have
-   a public link (Google Drive "Anyone with the link can view", or a hosted PDF URL).
-
-3) LEETCODE CARD — the leetcard.jacoblin.cool card auto-pulls live solved
-   counts (easy/medium/hard) and a submission heatmap for the username
-   Nishwa_RP. No setup needed, it just works as long as the profile is public.
-
-4) GITHUB STATS — now tucked inside a collapsible <details> section
-   ("GitHub Stats ⚡") to keep the top of the profile clean, matching
-   the reference layout you shared.
-
-=====================================================================
---> -->
