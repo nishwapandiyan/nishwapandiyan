@@ -55,7 +55,7 @@ Check out my profiles: [Portfolio](https://nishwapandiyan.github.io/Portfolio/) 
   <source media="(prefers-color-scheme: dark)"
           srcset="https://raw.githubusercontent.com/nishwapandiyan/nishwapandiyan/output/pacman-contribution-graph-dark.svg">
 
-  <source media="(prefers-color-scheme: dark)"
+  <source media="(prefers-color-scheme: light)"
           srcset="https://raw.githubusercontent.com/nishwapandiyan/nishwapandiyan/output/pacman-contribution-graph.svg">
 
   <img alt="Pacman contribution graph"
