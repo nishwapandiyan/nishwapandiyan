@@ -13,15 +13,15 @@
 </picture>  -->
 
 
-<picture>
+<!-- <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/nishwapandiyan/nishwapandiyan/output/galaga-contribution-graph-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/nishwapandiyan/nishwapandiyan/output/galaga-contribution-graph.svg">
   <img alt="Galaga contribution graph" src="https://raw.githubusercontent.com/nishwapandiyan/nishwapandiyan/output/galaga-contribution-graph.svg">
-</picture> 
+</picture>  -->
 
 
-<!-- <picture>
+ <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/nishwapandiyan/nishwapandiyan/output/puzzle-bobble-contribution-graph-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/nishwapandiyan/nishwapandiyan/output/puzzle-bobble-contribution-graph.svg">
   <img alt="Puzzle Bobble contribution graph" src="https://raw.githubusercontent.com/nishwapandiyan/nishwapandiyan/output/puzzle-bobble-contribution-graph.svg">
-</picture> -->
+</picture>
