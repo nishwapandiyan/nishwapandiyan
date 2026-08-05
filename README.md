@@ -21,7 +21,7 @@
 <div align="center">
   
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,html,css,js,python,django,mysql,git,github,vscode,figma&theme=dark&perline=12" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,python,java,django,mysql,git,github,vscode,pycharm,figma&theme=dark&perline=12" />
 </p>
   
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0A101F&height=10&section=header"/>
