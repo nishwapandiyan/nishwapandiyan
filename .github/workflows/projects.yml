@@ -6,37 +6,40 @@ on:
     paths:
       - "projects.json"
       - "logos/**"
-      - ".github/scripts/generate_projects.py"
-      - ".github/scripts/fetch_data.py"
-  schedule:
-    - cron: "0 */6 * * *"
+      - ".github/scripts/generate.py"
+      - ".github/scripts/fetch.py"
+
   workflow_dispatch:
 
 jobs:
   generate:
+    runs-on: ubuntu-latest
+
     permissions:
       contents: write
-    runs-on: ubuntu-latest
-    timeout-minutes: 10
+
     steps:
-      - name: Checkout
-        uses: actions/checkout@v4
+      - uses: actions/checkout@v4
 
-      - name: Fetch live repo data
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-        run: python3 .github/scripts/fetch_data.py
-
-      - name: Generate projects.svg
-        run: |
-          mkdir -p out
-          python3 .github/scripts/generate_projects.py merged.json out
-
-      - name: Push to projects branch
-        uses: crazy-max/ghaction-github-pages@v3.1.0
+      - name: Setup Python
+        uses: actions/setup-python@v5
         with:
-          target_branch: projects
-          build_dir: out
-          commit_message: "Update projects panel [skip ci]"
+          python-version: "3.11"
+
+      - name: Fetch Repository Data
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: |
+          python .github/scripts/fetch.py
+
+      - name: Generate SVG
+        run: |
+          mkdir -p output
+          python .github/scripts/generate.py merged.json output
+
+      - name: Deploy SVG
+        uses: peaceiris/actions-gh-pages@v4
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          publish_branch: projects
+          publish_dir: output
