@@ -1,7 +1,7 @@
 [
   {
     "name": "QueryGen AI",
-    "repo": "querygen-ai",
+    "repo": "Querry-Translator",
     "logo": "querygen.png",
     "description": "AI powered database query translator using natural language.",
     "tags": [
@@ -24,10 +24,10 @@
   },
 
   {
-    "name": "Portfolio Website",
-    "repo": "your-portfolio-repo-name",
+    "name": "smart student management",
+    "repo": "Smart_Student_Monitoring",
     "logo": "portfolio.png",
-    "description": "Responsive personal portfolio website with animations and dark theme.",
+    "description": "A smart student management system using complete frontend.",
     "tags": [
       "HTML",
       "CSS",
@@ -37,7 +37,7 @@
 
   {
     "name": "Library Management System",
-    "repo": "your-library-repo-name",
+    "repo": "library_management_python",
     "logo": "library.png",
     "description": "Library management application using Python and MySQL database.",
     "tags": [
