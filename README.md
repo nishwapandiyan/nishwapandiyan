@@ -1,4 +1,17 @@
-
+<picture>
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://raw.githubusercontent.com/nishwapandiyan/nishwapandiyan/main/dark.svg"
+  />
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="https://raw.githubusercontent.com/nishwapandiyan/nishwapandiyan/main/light.svg"
+  />
+  <img
+    alt="Nishwa R P"
+    src="https://raw.githubusercontent.com/nishwapandiyan/nishwapandiyan/main/light.svg"
+  />
+</picture>
 <!-- <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/nishwapandiyan/nishwapandiyan/output/pacman-contribution-graph-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/nishwapandiyan/nishwapandiyan/output/pacman-contribution-graph.svg">
