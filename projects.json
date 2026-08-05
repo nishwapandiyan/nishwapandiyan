@@ -1,1 +1,59 @@
-dfds
+[
+  {
+    "name": "QueryGen AI",
+    "repo": "nishwapandiyan/querygen-ai",
+    "logo": "querygen-ai.png",
+    "description": "Natural Language to SQL Translator using Gemini AI",
+    "tags": [
+      "Next.js",
+      "TypeScript",
+      "Gemini"
+    ]
+  },
+
+  {
+    "name": "Hospital Management",
+    "repo": "nishwapandiyan/Hospital_Management_Python",
+    "logo": "hospital.png",
+    "description": "Desktop Hospital Management using Python Tkinter",
+    "tags": [
+      "Python",
+      "Tkinter",
+      "MySQL"
+    ]
+  },
+
+  {
+    "name": "Portfolio Website",
+    "repo": "nishwapandiyan/nishwapandiyan.github.io",
+    "logo": "portfolio.png",
+    "description": "Personal Portfolio Website",
+    "tags": [
+      "HTML",
+      "CSS",
+      "JavaScript"
+    ]
+  },
+
+  {
+    "name": "Library Management",
+    "repo": "nishwapandiyan/Library_Management_System",
+    "logo": "library.png",
+    "description": "Library Management Desktop Application",
+    "tags": [
+      "Python",
+      "MySQL"
+    ]
+  },
+
+  {
+    "name": "Skill Check",
+    "repo": "nishwapandiyan/Skill_Check",
+    "logo": "skillcheck.png",
+    "description": "Skill Assessment Platform",
+    "tags": [
+      "React",
+      "FastAPI"
+    ]
+  }
+]
