@@ -1,4 +1,3 @@
-# 👋 Welcome to My GitHub Profile
 
 <picture>
   <source
@@ -15,10 +14,6 @@
   />
 </picture>
 
----
-
-## 📊 GitHub Statistics
-
 <div align="center">
 
   <img width="100%" src="https://streak-stats.demolab.com/?user=nishwapandiyan&hide_border=true&background=0A101F&stroke=22D3EE&ring=A78BFA&fire=10B981&currStreakLabel=22D3EE&sideLabels=94A3B8&currStreakNum=F8FAFC&sideNums=F8FAFC&dates=64748B&titleColor=22D3EE&card_width=1180" alt="GitHub Streak" />
@@ -31,9 +26,6 @@
 
 </div>
 
----
-
-## 🎮 Contribution Graph
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/nishwapandiyan/nishwapandiyan/output/puzzle-bobble-contribution-graph-dark.svg">
@@ -41,42 +33,32 @@
   <img alt="Puzzle Bobble contribution graph" src="https://raw.githubusercontent.com/nishwapandiyan/nishwapandiyan/output/puzzle-bobble-contribution-graph.svg">
 </picture>
 
----
 
-## 🌐 Connect With Me
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/nishwapandiyan/" title="LinkedIn">
-    <img src="https://img.icons8.com/fluency/48/linkedin.png" height="48" alt="LinkedIn"/>
-  </a>
-  &nbsp;&nbsp;&nbsp;
-
-  <a href="https://www.instagram.com/nishwa_pandiyan_/" title="Instagram">
-    <img src="https://img.icons8.com/fluency/48/instagram-new.png" height="48" alt="Instagram"/>
-  </a>
-  &nbsp;&nbsp;&nbsp;
-
-  <a href="https://www.facebook.com/profile.php?id=61567349444756" title="Facebook">
-    <img src="https://img.icons8.com/fluency/48/facebook-new.png" height="48" alt="Facebook"/>
-  </a>
-  &nbsp;&nbsp;&nbsp;
-
-  <a href="mailto:YOUR_EMAIL@example.com" title="Email">
-    <img src="https://img.icons8.com/fluency/48/gmail-new.png" height="48" alt="Email"/>
-  </a>
-  &nbsp;&nbsp;&nbsp;
-
-  <a href="https://nishwapandiyan.github.io/Portfolio/" title="Portfolio">
-    <img src="https://img.icons8.com/fluency/48/domain.png" height="48" alt="Portfolio"/>
-  </a>
-</p>
-
----
-
+<!-- ==================================================================Social Icons ================================================================================================-->
 <div align="center">
 
-### ⭐ Thanks for visiting my profile!
+<a href="https://www.linkedin.com/in/nishwapandiyan/">
+<img src="https://img.shields.io/badge/LINKEDIN-0A101F?style=flat-square&logoColor=white&labelColor=0A101F&logo=data:image/svg+xml;base64,PHN2ZyByb2xlPSJpbWciIHZpZXdCb3g9IjAgMCAyNCAyNCIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIiBmaWxsPSJ3aGl0ZSI+PHBhdGggZD0iTTIwLjQ0NyAyMC40NTJoLTMuNTU0di01LjU2OWMwLTEuMzI4LS4wMjctMy4wMzctMS44NTItMy4wMzctMS44NTMgMC0yLjEzNiAxLjQ0NS0yLjEzNiAyLjkzOXY1LjY2N0g5LjM1MVY5aDMuNDE0djEuNTYxaC4wNDZjLjQ3Ny0uOSAxLjYzNy0xLjg1IDMuMzctMS44NSAzLjYwMSAwIDQuMjY3IDIuMzcgNC4yNjcgNS40NTV2Ni4yODZ6TTUuMzM3IDcuNDMzYy0xLjE0NCAwLTIuMDYzLS45MjYtMi4wNjMtMi4wNjUgMC0xLjEzOC45Mi0yLjA2MyAyLjA2My0yLjA2MyAxLjE0IDAgMi4wNjQuOTI1IDIuMDY0IDIuMDYzIDAgMS4xMzktLjkyNSAyLjA2NS0yLjA2NCAyLjA2NXptMS43ODIgMTMuMDE5SDMuNTU1VjloMy41NjR2MTEuNDUyek0yMi4yMjUgMEgxLjc3MUMuNzkyIDAgMCAuNzc0IDAgMS43Mjl2MjAuNTQyQzAgMjMuMjI3Ljc5MiAyNCAxLjc3MSAyNGgyMC40NTFDMjMuMiAyNCAyNCAyMy4yMjcgMjQgMjIuMjcxVjEuNzI5QzI0IC43NzQgMjMuMiAwIDIyLjIyNSAweiIvPjwvc3ZnPg==" />
+</a>&nbsp;
 
-*"Building • Learning • Shipping"* 🚀
+<a href="https://www.instagram.com/nishwa_pandiyan_/">
+  <img src="https://img.shields.io/badge/INSTAGRAM-0A101F?style=flat-square&logo=instagram&logoColor=A78BFA&labelColor=0A101F" />
+</a>&nbsp;
+
+<a href="https://www.facebook.com/profile.php?id=61567349444756">
+  <img src="https://img.shields.io/badge/FACEBOOK-0A101F?style=flat-square&logo=facebook&logoColor=22D3EE&labelColor=0A101F" />
+</a>&nbsp;
+
+<a href="mailto:YOUR_EMAIL@example.com">
+  <img src="https://img.shields.io/badge/EMAIL-0A101F?style=flat-square&logo=gmail&logoColor=10B981&labelColor=0A101F" />
+</a>&nbsp;
+
+<a href="https://nishwapandiyan.github.io/Portfolio/">
+  <img src="https://img.shields.io/badge/PORTFOLIO-0A101F?style=flat-square&logo=googlechrome&logoColor=22D3EE&labelColor=0A101F" />
+</a>
+
+</div>
+
+<div align="center">
 
 </div>
