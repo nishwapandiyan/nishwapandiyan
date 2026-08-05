@@ -16,7 +16,30 @@
 
 <div align="center">
 
-  <img width="100%" src="https://streak-stats.demolab.com/?user=nishwapandiyan&hide_border=true&background=0A101F&stroke=22D3EE&ring=A78BFA&fire=10B981&currStreakLabel=22D3EE&sideLabels=94A3B8&currStreakNum=F8FAFC&sideNums=F8FAFC&dates=64748B&titleColor=22D3EE&card_width=1180" alt="GitHub Streak" />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0A101F&height=10&section=header"/>
+
+<br>
+
+<img width="55%" 
+src="https://streak-stats.demolab.com?user=nishwapandiyan&hide_border=true&background=0A101F&ring=A78BFA&fire=10B981&currStreakLabel=22D3EE&sideLabels=94A3B8&currStreakNum=F8FAFC&sideNums=F8FAFC&dates=64748B&titleColor=22D3EE&stroke=22D3EE&border_radius=10"
+alt="GitHub Streak"/>
+
+<br><br>
+
+<img height="22"
+src="https://komarev.com/ghpvc/?username=nishwapandiyan&style=for-the-badge&color=22D3EE&label=VIEWS"/>
+
+<img height="22"
+src="https://img.shields.io/github/followers/nishwapandiyan?style=for-the-badge&color=A78BFA&logo=github&label=FOLLOWERS"/>
+
+<br>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0A101F&height=10&section=footer"/>
+
+</div>
+
+
+<div align="center">
 
   <br><br>
 
