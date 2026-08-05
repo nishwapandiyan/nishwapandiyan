@@ -1,33 +1,84 @@
-name: generate pacman game
+name: Generate Pacman Game
+
 
 on:
-  schedule: # run automatically every 24 hours
+
+  schedule:
     - cron: "0 */24 * * *"
-  workflow_dispatch: # allows to manually run the job at any time
-  push: # run on every push on the master branch
+
+  workflow_dispatch:
+
+  push:
     branches:
       - main
 
+
+
 jobs:
+
   generate:
+
     permissions:
       contents: write
+
     runs-on: ubuntu-latest
+
     timeout-minutes: 20
 
+
     steps:
-      - name: generate pacman-contribution-graph.svg
+
+      - name: Generate pacman contribution graph
+
         uses: abozanona/pacman-contribution-graph@main
+
         with:
+
           github_user_name: ${{ github.repository_owner }}
+
           games: 'pacman,breakout,galaga,puzzle-bobble,bomberman'
 
-      # push the content of <build_dir> to a branch
-      # the content will be available at https://raw.githubusercontent.com/<github_user>/<repository>/<target_branch>/<file> , or as github page
-      - name: push pacman-contribution-graph.svg to the output branch
+
+      - name: Customize theme colors
+
+        run: |
+
+          mkdir -p dist
+
+
+          sed -i \
+          's/#161b22/#0A101F/g' \
+          dist/*.svg
+
+
+          sed -i \
+          's/#39d353/#22D3EE/g' \
+          dist/*.svg
+
+
+          sed -i \
+          's/#26a641/#7C3AED/g' \
+          dist/*.svg
+
+
+          sed -i \
+          's/#0e4429/#A78BFA/g' \
+          dist/*.svg
+
+
+      - name: Push pacman animation
+
         uses: crazy-max/ghaction-github-pages@v3.1.0
+
         with:
+
           target_branch: output
+
           build_dir: dist
+
+          commit_message: "Update pacman animation [skip ci]"
+
+
         env:
+
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
