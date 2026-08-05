@@ -30,19 +30,17 @@ src="https://streak-stats.demolab.com?user=nishwapandiyan&hide_border=true&backg
 alt="GitHub Streak"/>
 
 <p align="center">
-  <img height="28"
-       src="https://komarev.com/ghpvc/?username=nishwapandiyan&style=for-the-badge&color=22D3EE&label=VIEWS"/>
-  &nbsp;&nbsp;
-  <img height="28"
-       src="https://img.shields.io/github/followers/nishwapandiyan?style=for-the-badge&color=A78BFA&logo=github&label=FOLLOWERS"/>
+  <img src="https://komarev.com/ghpvc/?username=nishwapandiyan&style=flat&label=PROFILE%20VIEWS&color=00F5FF"/>
+
+  <img src="https://img.shields.io/github/followers/nishwapandiyan?style=flat&logo=github&label=FOLLOWERS&color=A855F7"/>
 </p>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0A101F&height=10&section=footer"/>
+<!-- <img src="https://capsule-render.vercel.app/api?type=rect&color=0A101F&height=10&section=footer"/> -->
 
 </div>
+<br>
 
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0A101F&height=10&section=footer"/>
+<!-- <img src="https://capsule-render.vercel.app/api?type=rect&color=0A101F&height=10&section=footer"/> -->
 
 </div>
 
