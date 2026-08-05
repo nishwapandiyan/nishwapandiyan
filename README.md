@@ -1,3 +1,5 @@
+# 👋 Welcome to My GitHub Profile
+
 <picture>
   <source
     media="(prefers-color-scheme: dark)"
@@ -13,26 +15,9 @@
   />
 </picture>
 
+---
 
-<!-- <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/nishwapandiyan/nishwapandiyan/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/nishwapandiyan/nishwapandiyan/output/pacman-contribution-graph.svg">
-  <img alt="Pac-Man contribution graph" src="https://raw.githubusercontent.com/nishwapandiyan/nishwapandiyan/output/pacman-contribution-graph.svg">
-</picture> -->
-
-
-<!-- <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/nishwapandiyan/nishwapandiyan/output/breakout-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/nishwapandiyan/nishwapandiyan/output/breakout-contribution-graph.svg">
-  <img alt="Breakout contribution graph" src="https://raw.githubusercontent.com/nishwapandiyan/nishwapandiyan/output/breakout-contribution-graph.svg">
-</picture>  -->
-
-
-<!-- <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/nishwapandiyan/nishwapandiyan/output/galaga-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/nishwapandiyan/nishwapandiyan/output/galaga-contribution-graph.svg">
-  <img alt="Galaga contribution graph" src="https://raw.githubusercontent.com/nishwapandiyan/nishwapandiyan/output/galaga-contribution-graph.svg">
-</picture>  -->
+## 📊 GitHub Statistics
 
 <div align="center">
 
@@ -46,12 +31,19 @@
 
 </div>
 
+---
 
- <picture>
+## 🎮 Contribution Graph
+
+<picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/nishwapandiyan/nishwapandiyan/output/puzzle-bobble-contribution-graph-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/nishwapandiyan/nishwapandiyan/output/puzzle-bobble-contribution-graph.svg">
   <img alt="Puzzle Bobble contribution graph" src="https://raw.githubusercontent.com/nishwapandiyan/nishwapandiyan/output/puzzle-bobble-contribution-graph.svg">
 </picture>
+
+---
+
+## 🌐 Connect With Me
 
 <p align="center">
   <a href="https://www.linkedin.com/in/nishwapandiyan/" title="LinkedIn">
@@ -78,3 +70,13 @@
     <img src="https://img.icons8.com/fluency/48/domain.png" height="48" alt="Portfolio"/>
   </a>
 </p>
+
+---
+
+<div align="center">
+
+### ⭐ Thanks for visiting my profile!
+
+*"Building • Learning • Shipping"* 🚀
+
+</div>
