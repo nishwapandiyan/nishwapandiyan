@@ -4,6 +4,7 @@
     "repo": "Querry-Translator",
     "logo": "querygen.png",
     "description": "AI powered database query translator using natural language.",
+    "progress": 100,
     "tags": [
       "Next.js",
       "TypeScript",
@@ -16,6 +17,7 @@
     "repo": "Hospital_Management_Python",
     "logo": "hospital.png",
     "description": "Desktop hospital management system built using Python Tkinter and MySQL.",
+    "progress": 100,
     "tags": [
       "Python",
       "Tkinter",
@@ -24,10 +26,11 @@
   },
 
   {
-    "name": "smart student management",
+    "name": "Smart Student Management",
     "repo": "Smart_Student_Monitoring",
     "logo": "portfolio.png",
     "description": "A smart student management system using complete frontend.",
+    "progress": 100,
     "tags": [
       "HTML",
       "CSS",
@@ -40,6 +43,7 @@
     "repo": "library_management_python",
     "logo": "library.png",
     "description": "Library management application using Python and MySQL database.",
+    "progress": 100,
     "tags": [
       "Python",
       "MySQL",
