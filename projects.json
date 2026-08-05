@@ -7,11 +7,9 @@
     "tags": [
       "Next.js",
       "TypeScript",
-      "Gemini",
-      "SQLite"
+      "Gemini"
     ]
   },
-
 
   {
     "name": "Hospital Management System",
@@ -22,6 +20,30 @@
       "Python",
       "Tkinter",
       "MySQL"
+    ]
+  },
+
+  {
+    "name": "Portfolio Website",
+    "repo": "your-portfolio-repo-name",
+    "logo": "portfolio.png",
+    "description": "Responsive personal portfolio website with animations and dark theme.",
+    "tags": [
+      "HTML",
+      "CSS",
+      "JavaScript"
+    ]
+  },
+
+  {
+    "name": "Library Management System",
+    "repo": "your-library-repo-name",
+    "logo": "library.png",
+    "description": "Library management application using Python and MySQL database.",
+    "tags": [
+      "Python",
+      "MySQL",
+      "GUI"
     ]
   }
 ]
