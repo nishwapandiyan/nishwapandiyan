@@ -12,6 +12,19 @@
     ]
   },
 
+    {
+    "name": "Hospital Management System",
+    "repo": "Hospital_Management_Python",
+    "logo": "hospital.png",
+    "description": "Desktop hospital management system built using Python Tkinter and MySQL.",
+    "progress": 100,
+    "tags": [
+      "Python",
+      "Tkinter",
+      "MySQL"
+    ]
+  },
+
   {
     "name": "Hospital Management System",
     "repo": "Hospital_Management_Python",
