@@ -14,13 +14,16 @@
   />
 </picture>
 
+
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0A101F&height=10&section=header"/>
-
-<br>
 <div align="center">
-
+  
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=java,html,css,js,python,django,mysql,git,github,vscode,figma&theme=dark&perline=12" />
+</p>
+  
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0A101F&height=10&section=header"/>
 <img width="55%"
 src="https://streak-stats.demolab.com?user=nishwapandiyan&hide_border=true&background=0A101F&ring=A78BFA&fire=10B981&currStreakLabel=22D3EE&sideLabels=94A3B8&currStreakNum=F8FAFC&sideNums=F8FAFC&dates=64748B&titleColor=22D3EE&stroke=22D3EE&border_radius=10"
