@@ -74,7 +74,7 @@ alt="GitHub Streak"/>
   <img src="https://img.shields.io/badge/FACEBOOK-0A101F?style=flat-square&logo=facebook&logoColor=22D3EE&labelColor=0A101F" />
 </a>&nbsp;
 
-<a href="mailto:YOUR_EMAIL@example.com">
+<a href="mailto:nishwapandiyan@gmail.com">
   <img src="https://img.shields.io/badge/EMAIL-0A101F?style=flat-square&logo=gmail&logoColor=10B981&labelColor=0A101F" />
 </a>&nbsp;
 
