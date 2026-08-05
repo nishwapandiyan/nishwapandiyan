@@ -12,6 +12,8 @@
     src="https://raw.githubusercontent.com/nishwapandiyan/nishwapandiyan/main/light.svg"
   />
 </picture>
+
+
 <!-- <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/nishwapandiyan/nishwapandiyan/output/pacman-contribution-graph-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/nishwapandiyan/nishwapandiyan/output/pacman-contribution-graph.svg">
@@ -51,3 +53,28 @@
   <img alt="Puzzle Bobble contribution graph" src="https://raw.githubusercontent.com/nishwapandiyan/nishwapandiyan/output/puzzle-bobble-contribution-graph.svg">
 </picture>
 
+<p align="center">
+  <a href="https://www.linkedin.com/in/nishwapandiyan/" title="LinkedIn">
+    <img src="https://img.icons8.com/fluency/48/linkedin.png" height="48" alt="LinkedIn"/>
+  </a>
+  &nbsp;&nbsp;&nbsp;
+
+  <a href="https://www.instagram.com/nishwa_pandiyan_/" title="Instagram">
+    <img src="https://img.icons8.com/fluency/48/instagram-new.png" height="48" alt="Instagram"/>
+  </a>
+  &nbsp;&nbsp;&nbsp;
+
+  <a href="https://www.facebook.com/profile.php?id=61567349444756" title="Facebook">
+    <img src="https://img.icons8.com/fluency/48/facebook-new.png" height="48" alt="Facebook"/>
+  </a>
+  &nbsp;&nbsp;&nbsp;
+
+  <a href="mailto:YOUR_EMAIL@example.com" title="Email">
+    <img src="https://img.icons8.com/fluency/48/gmail-new.png" height="48" alt="Email"/>
+  </a>
+  &nbsp;&nbsp;&nbsp;
+
+  <a href="https://nishwapandiyan.github.io/Portfolio/" title="Portfolio">
+    <img src="https://img.icons8.com/fluency/48/domain.png" height="48" alt="Portfolio"/>
+  </a>
+</p>
