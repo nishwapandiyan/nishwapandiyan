@@ -9,15 +9,19 @@
     srcset="https://raw.githubusercontent.com/nishwapandiyan/nishwapandiyan/main/light.svg"
   />
   <img
-    alt="Nishwa R P"
+    alt="Nishwa R P | Nishwa Pandiyan | Python Developer"
     src="https://raw.githubusercontent.com/nishwapandiyan/nishwapandiyan/main/light.svg"
   />
 </picture>
 
+<p align="center">
+  Hi, I'm <strong>Nishwa R P</strong>, also known as <strong>Nishwa Pandiyan</strong> and <strong>nishwapandiyan</strong>. I'm an Electronics and Communication Engineering student focused on <strong>Python Development, Full-Stack Development, Backend Development, Django, FastAPI, MySQL, JavaScript, and modern web technologies</strong>. I enjoy building practical software projects, strengthening my problem-solving skills, and continuously learning technologies used in real-world development.
+</p>
 
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0A101F&height=10&section=header"/>
+
 <div align="center">
   
 <p align="center">
@@ -25,9 +29,10 @@
 </p>
   
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0A101F&height=10&section=header"/>
+
 <img width="55%"
 src="https://streak-stats.demolab.com?user=nishwapandiyan&hide_border=true&background=0A101F&ring=A78BFA&fire=10B981&currStreakLabel=22D3EE&sideLabels=94A3B8&currStreakNum=F8FAFC&sideNums=F8FAFC&dates=64748B&titleColor=22D3EE&stroke=22D3EE&border_radius=10"
-alt="GitHub Streak"/>
+alt="Nishwa R P GitHub Streak"/>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=nishwapandiyan&style=flat&label=PROFILE%20VIEWS&color=00F5FF"/>
@@ -35,36 +40,30 @@ alt="GitHub Streak"/>
   <img src="https://img.shields.io/github/followers/nishwapandiyan?style=flat&logo=github&label=FOLLOWERS&color=A855F7"/>
 </p>
 
-<!-- <img src="https://capsule-render.vercel.app/api?type=rect&color=0A101F&height=10&section=footer"/> -->
-
 </div>
 <br>
-
-<!-- <img src="https://capsule-render.vercel.app/api?type=rect&color=0A101F&height=10&section=footer"/> -->
 
 </div>
 
 
 <div align="center">
 
-  <img width="49%" src="https://github-readme-stats-brown-delta-11.vercel.app/api?username=nishwapandiyan&show_icons=true&count_private=true&include_all_commits=true&hide_rank=true&hide_border=true&title_color=22D3EE&icon_color=A78BFA&text_color=94A3B8&bg_color=0A101F&card_width=500" alt="GitHub Stats" />
+  <img width="49%" src="https://github-readme-stats-brown-delta-11.vercel.app/api?username=nishwapandiyan&show_icons=true&count_private=true&include_all_commits=true&hide_rank=true&hide_border=true&title_color=22D3EE&icon_color=A78BFA&text_color=94A3B8&bg_color=0A101F&card_width=500" alt="Nishwa R P GitHub Stats" />
 
-  <img width="49%" src="https://github-readme-stats-brown-delta-11.vercel.app/api/top-langs/?username=nishwapandiyan&layout=compact&langs_count=8&hide_border=true&title_color=22D3EE&text_color=94A3B8&bg_color=0A101F&card_width=500" alt="Top Languages" />
+  <img width="49%" src="https://github-readme-stats-brown-delta-11.vercel.app/api/top-langs/?username=nishwapandiyan&layout=compact&langs_count=8&hide_border=true&title_color=22D3EE&text_color=94A3B8&bg_color=0A101F&card_width=500" alt="Nishwa R P Top Languages" />
 
 </div>
+
 <br><br>
-<!-- <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/nishwapandiyan/nishwapandiyan/output/puzzle-bobble-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/nishwapandiyan/nishwapandiyan/output/puzzle-bobble-contribution-graph.svg">
-  <img alt="Puzzle Bobble contribution graph" src="https://raw.githubusercontent.com/nishwapandiyan/nishwapandiyan/output/puzzle-bobble-contribution-graph.svg">
-</picture> -->
+
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/nishwapandiyan/nishwapandiyan/output/galaga-contribution-graph-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/nishwapandiyan/nishwapandiyan/output/galaga-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/nishwapandiyan/nishwapandiyan/output/galaga-contribution-graph.svg">
+  <img alt="Nishwa R P Contribution Graph" src="https://raw.githubusercontent.com/nishwapandiyan/nishwapandiyan/output/galaga-contribution-graph.svg">
 </picture>
+
 <br><br>
-<!-- ==================================================================Social Icons ================================================================================================-->
+
 <div align="center">
 
 <a href="https://www.linkedin.com/in/nishwapandiyan/">
@@ -92,5 +91,6 @@ alt="GitHub Streak"/>
 <div align="center">
 <br><br>
 
-<img src="https://raw.githubusercontent.com/nishwapandiyan/nishwapandiyan/projects/projects.svg">
+<img src="https://raw.githubusercontent.com/nishwapandiyan/nishwapandiyan/projects/projects.svg" alt="Nishwa R P Projects">
+
 </div>
